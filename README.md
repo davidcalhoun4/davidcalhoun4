@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David Calhoun</h1>
-<h3 align="center">A dance artist turned web developer</h3>
+<h1 align="center">Hi 👋 , I'm David Calhoun</h1>
+<h3 align="center">web developer | dance artist</h3>
 
 - 🔭 I’m currently working on [kind of vegan](https://github.com/davidcalhoun4/kind-of-vegan)
 
