@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **calhoun5321@gmail.com**
 
-- 📄 Know about my experiences [https://res.cloudinary.com/dvdclhn/image/upload/v1618173234/david_calhoun_resume_jvulhf.pdf](https://res.cloudinary.com/dvdclhn/image/upload/v1618173234/david_calhoun_resume_jvulhf.pdf)
+- 📄 Know about my experiences via my [Resume](https://res.cloudinary.com/dvdclhn/image/upload/v1618173234/david_calhoun_resume_jvulhf.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
